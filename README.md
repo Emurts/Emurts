@@ -6,7 +6,7 @@ Meu nome é Pedro
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para organizar e compartilhas projetos que estou desenvolvendo.
 
-- ### Você ´pode entrar em contato comigo 📫
+- ### Você pode entrar em contato comigo 📫
 
 - pedrinhovalio@gmail.com
 
